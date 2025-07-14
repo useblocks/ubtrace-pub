@@ -1,9 +1,9 @@
 # ubTrace Feature Planning
 
-The [ubTrace](https://useblocks.com/products/ubtrace/) Engineering-as-Code platform provides enhanced
+The [ubTrace](https://ubtrace.useblocks.com/index.html) Engineering-as-Code platform provides enhanced
 documentation and visualizations features around [Sphinx-Needs](https://sphinx-needs.readthedocs.io) projects.
 
-The documentation for ubTrace can be accessed [here](https://docs.useblocks.com/ubtrace).
+The documentation for ubTrace can be accessed [here]([https://docs.useblocks.com/ubtrace](https://ubtrace.useblocks.com/index.html)).
 
 This public repo exists to track issues for the private repos.
 Users can create issues, track progress, vote for issues and see the milestone planning.
